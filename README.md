@@ -19,3 +19,14 @@ At the end we will also see how well each chosen model works.
 6. Plot Learning Curve
 
 ## A. DATA PRE-PROCESSING -
+1. Import the Dataset
+  * Import and separate data for both the genders.
+2. Process the Data
+  * Convert to Gray
+  * Detect faces using HAAR Cascade
+  * Crop the face
+  * Resize Image
+3. Creating DataFrame 
+  * Label data and save as a dataframe
+
+
